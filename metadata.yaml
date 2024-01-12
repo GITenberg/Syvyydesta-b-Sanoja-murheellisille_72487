@@ -1,0 +1,43 @@
+_repo: Syvyydesta-b-Sanoja-murheellisille_72487
+_version: 0.0.1
+alternative_title: Out of the deep. Finnish
+contributor:
+  translator:
+    agent_name: Aho, Pekka
+    alias: Brofeldt, Pekka
+    birthdate: 1864
+    deathdate: 1945
+    gutenberg_agent_id: '52302'
+    url: http://www.gutenberg.org/2009/agents/52302
+    wikipedia: https://fi.wikipedia.org/wiki/Pekka_Brofeldt
+creator:
+  author:
+    agent_name: Kingsley, Charles
+    aliases:
+    - Kingley, Charles
+    - Kingsley, C. (Charles)
+    birthdate: 1819
+    deathdate: 1875
+    gutenberg_agent_id: '344'
+    url: http://www.gutenberg.org/2009/agents/344
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Kingsley
+description: ''
+gutenberg_issued: '2023-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72487'
+language: fi
+pgterms:marc905: 20230420084332kingsley
+pgterms:marc906: '1904'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Consolation'
+- !lcc 'BV'
+- GITenberg
+title: 'Syvyydestä : $b Sanoja murheellisille'
+url: http://www.gutenberg.org/ebooks/72487
